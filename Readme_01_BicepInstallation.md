@@ -1,11 +1,11 @@
 # Azure Installation
 
-1. [Setting Up](#setting_up)
+1. [Setting Up](#setting-up)
     1. Installing Azure CLI
     2. Installing Azure Bicep
     3. Logging in to Azure CLI
 
-2. [Further Reading](#further_reading)
+2. [Further Reading](#further-reading)
 
 
 ## Setting up

@@ -4,10 +4,10 @@ Getting started with Azure Devops by deploying a bicep file with pipeline
 
 # Index
 
-1. [Azure DevOps Connection](#azure_devops_connection)
-2. [Create a repository](#create_a_repository)
-3. [Create an environment](#create_an_environment)
-4. [Create a new pipeline](#create_a_new_pipeline)
+1. [Azure DevOps Connection](#azure-devops-connection)
+2. [Create a repository](#create-a-repository)
+3. [Create an environment](#create-an-environment)
+4. [Create a new pipeline](#create-a-new-pipeline)
 
 <br>
 
